@@ -1,0 +1,7 @@
+com\wang\ssm\controller\LogAop.class
+com\wang\ssm\controller\ProductController.class
+com\wang\ssm\controller\PermissionController.class
+com\wang\ssm\controller\SysLogController.class
+com\wang\ssm\controller\RoleController.class
+com\wang\ssm\controller\OrdersController.class
+com\wang\ssm\controller\UserController.class

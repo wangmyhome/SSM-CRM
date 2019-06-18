@@ -1,0 +1,9 @@
+com\wang\ssm\dao\IOrderDao.class
+com\wang\ssm\dao\IRoleDao.class
+com\wang\ssm\dao\ISysLogDao.class
+com\wang\ssm\dao\ITravellerDao.class
+com\wang\ssm\dao\IUserDao.class
+com\wang\ssm\dao\PermissionDao.class
+com\wang\ssm\dao\IMemberDao.class
+com\wang\ssm\dao\IPermissionDao.class
+com\wang\ssm\dao\IProductDao.class

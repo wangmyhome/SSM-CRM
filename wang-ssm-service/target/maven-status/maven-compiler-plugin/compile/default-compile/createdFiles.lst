@@ -1,0 +1,12 @@
+com\wang\ssm\service\IOrdersService.class
+com\wang\ssm\service\impl\IProductServiceImpl.class
+com\wang\ssm\service\PermissionService.class
+com\wang\ssm\service\IProductService.class
+com\wang\ssm\service\impl\IOrdersServiceImpl.class
+com\wang\ssm\service\impl\IRoleServiceImpl.class
+com\wang\ssm\service\IRoleService.class
+com\wang\ssm\service\IUserService.class
+com\wang\ssm\service\impl\PermissionServiceImpl.class
+com\wang\ssm\service\ISysLogService.class
+com\wang\ssm\service\impl\IUserServiceImpl.class
+com\wang\ssm\service\impl\SysLogServiceImpl.class

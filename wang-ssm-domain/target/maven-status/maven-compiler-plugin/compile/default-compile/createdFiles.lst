@@ -1,0 +1,8 @@
+com\wang\ssm\domain\Product.class
+com\wang\ssm\domain\Role.class
+com\wang\ssm\domain\SysLog.class
+com\wang\ssm\domain\Orders.class
+com\wang\ssm\domain\UserInfo.class
+com\wang\ssm\domain\Member.class
+com\wang\ssm\domain\Traveller.class
+com\wang\ssm\domain\Permission.class

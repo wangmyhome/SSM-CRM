@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="wang-ssm-web:war">
+    <output-path>$PROJECT_DIR$/wang-ssm-web/target</output-path>
+    <root id="archive" name="wang-ssm-web.war">
+      <element id="artifact" artifact-name="wang-ssm-web:war exploded" />
+    </root>
+  </artifact>
+</component>

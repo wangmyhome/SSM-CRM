@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/wang-ssm-dao/wang-ssm-dao.iml" filepath="$PROJECT_DIR$/wang-ssm-dao/wang-ssm-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wang-ssm-domain/wang-ssm-domain.iml" filepath="$PROJECT_DIR$/wang-ssm-domain/wang-ssm-domain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wang-ssm-service/wang-ssm-service.iml" filepath="$PROJECT_DIR$/wang-ssm-service/wang-ssm-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wang-ssm-utils/wang-ssm-utils.iml" filepath="$PROJECT_DIR$/wang-ssm-utils/wang-ssm-utils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wang-ssm-web/wang-ssm-web.iml" filepath="$PROJECT_DIR$/wang-ssm-web/wang-ssm-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wangssm.iml" filepath="$PROJECT_DIR$/wangssm.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="wang-ssm-dao" />
+        <module name="wang-ssm-domain" />
+        <module name="wang-ssm-service" />
+        <module name="wang-ssm-utils" />
+        <module name="wang-ssm-web" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="wang-ssm-dao" target="1.8" />
+      <module name="wang-ssm-domain" target="1.8" />
+      <module name="wang-ssm-service" target="1.8" />
+      <module name="wang-ssm-utils" target="1.8" />
+      <module name="wang-ssm-web" target="1.8" />
+      <module name="wangssm" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
